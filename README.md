@@ -1,5 +1,4 @@
-## Welcome to the profile of brunoabreusz
-
+## Welcome to my profile
  <div>
   <a href="https://github.com/brunoabreusz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunoabreusz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
